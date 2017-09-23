@@ -60,7 +60,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "7bae46f514f2526f724d"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "d8b7eda6f57b2fb2c963"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -27050,7 +27050,7 @@ var Player = function (_React$Component) {
 						_react2.default.createElement(
 							_reactRouter.Link,
 							{ to: '/list' },
-							'\u6211\u7684\u79C1\u4EBA\u97F3\u4E50\u574A &qt;'
+							'\u6211\u7684\u79C1\u4EBA\u97F3\u4E50\u574A >'
 						),
 						' '
 					),
