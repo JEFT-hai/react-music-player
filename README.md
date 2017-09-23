@@ -4,7 +4,7 @@ react + react-router + pubsub
 
 一个用`react`写的一个音乐播放器       
 
-[在线预览](https://JEFT-hai.github.io/react-music/)
+[在线预览](https://JEFT-hai.github.io/react-music-player/)
 
 ## pubsub
 
